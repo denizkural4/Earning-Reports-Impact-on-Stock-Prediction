@@ -1,0 +1,488 @@
+Ticker Symbol,Company Name,Annoucement Date,For Quarter Ended In,Estimated EPS,Actual EPS,Surprise,Surprise %
+NOV,National Oilwell Varco Inc.,28-Oct-19,19-Sep,0.1,-0.61,-0.71,-710
+AIV,Apartment Investment & Management,31-Oct-19,19-Sep,0.63,0.01,-0.62,-98.4
+SBAC,SBA Communications,28-Oct-19,19-Sep,2.08,0.19,-1.89,-90.8
+DLR,Digital Realty Trust Inc,29-Oct-19,19-Sep,1.64,0.24,-1.4,-85.3
+UDR,UDR Inc.,29-Oct-19,19-Sep,0.52,0.09,-0.43,-82.6
+WYNN,Wynn Resorts Ltd,6-Nov-19,19-Sep,0.88,0.17,-0.71,-80.6
+VTR,Ventas Inc,25-Oct-19,19-Sep,0.94,0.23,-0.71,-75.5
+FTI,TechnipFMC,23-Oct-19,19-Sep,0.49,0.12,-0.37,-75.5
+EQIX,Equinix,30-Oct-19,19-Sep,5.45,1.41,-4.04,-74.1
+OXY,Occidental Petroleum,4-Nov-19,19-Sep,0.41,0.11,-0.3,-73.1
+MOS,The Mosaic Company,4-Nov-19,19-Sep,0.27,0.08,-0.19,-70.3
+MAA,Mid-America Apartments,30-Oct-19,19-Sep,1.55,0.49,-1.06,-68.3
+VNO,Vornado Realty Trust,28-Oct-19,19-Sep,0.87,0.28,-0.59,-67.8
+REG,Regency Centers Corporation,30-Oct-19,19-Sep,0.96,0.34,-0.62,-64.5
+KIM,Kimco Realty,24-Oct-19,19-Sep,0.36,0.14,-0.22,-61.1
+O,Realty Income Corporation,4-Nov-19,19-Sep,0.83,0.33,-0.5,-60.2
+NLOK,NortonLifeLock,7-Nov-19,19-Sep,0.42,0.18,-0.24,-57.1
+ESS,Essex Property Trust Inc.,23-Oct-19,19-Sep,3.36,1.51,-1.85,-55
+FRT,Federal Realty Investment Trust,30-Oct-19,19-Sep,1.59,0.84,-0.75,-47.1
+IRM,Iron Mountain Incorporated,31-Oct-19,19-Sep,0.59,0.32,-0.27,-45.7
+AIG,American International Group,1-Nov-19,19-Sep,0.99,0.56,-0.43,-43.4
+SPG,Simon Property Group Inc,30-Oct-19,19-Sep,3.05,1.77,-1.28,-41.9
+TRV,The Travelers Companies Inc.,22-Oct-19,19-Sep,2.38,1.43,-0.95,-39.9
+EXR,Extra Space Storage,29-Oct-19,19-Sep,1.24,0.83,-0.41,-33
+PSA,Public Storage,29-Oct-19,19-Sep,2.74,1.93,-0.81,-29.5
+BA,Boeing Company,23-Oct-19,19-Sep,2.04,1.45,-0.59,-28.9
+TIF,Tiffany & Co.,5-Dec-19,19-Oct,0.85,0.65,-0.2,-23.5
+WFC,Wells Fargo,15-Oct-19,19-Sep,1.15,0.92,-0.23,-20
+WY,Weyerhaeuser,25-Oct-19,19-Sep,0.1,0.08,-0.02,-20
+GOOGL,Alphabet Inc Class A,28-Oct-19,19-Sep,12.57,10.12,-2.45,-19.4
+GOOG,Alphabet Inc Class C,28-Oct-19,19-Sep,12.57,10.12,-2.45,-19.4
+EQR,Equity Residential,22-Oct-19,19-Sep,0.88,0.71,-0.17,-19.3
+HAS,Hasbro Inc.,22-Oct-19,19-Sep,2.22,1.84,-0.38,-17.1
+PFG,Principal Financial Group,24-Oct-19,19-Sep,1.46,1.23,-0.23,-15.7
+TWTR,Twitter Inc.,24-Oct-19,19-Sep,0.2,0.17,-0.03,-15
+AVB,AvalonBay Communities Inc.,28-Oct-19,19-Sep,2.35,2,-0.35,-14.8
+YUM,Yum! Brands Inc,30-Oct-19,19-Sep,0.94,0.8,-0.14,-14.8
+CF,CF Industries Holdings Inc,30-Oct-19,19-Sep,0.34,0.29,-0.05,-14.7
+FANG,Diamondback Energy,5-Nov-19,19-Sep,1.71,1.47,-0.24,-14
+KSS,Kohl's Corp.,19-Nov-19,19-Oct,0.85,0.74,-0.11,-12.9
+BKR,Baker Hughes Co,30-Oct-19,19-Sep,0.24,0.21,-0.03,-12.5
+NRG,NRG Energy,7-Nov-19,19-Sep,2.14,1.88,-0.26,-12.1
+UHS,Universal Health Services Inc.,24-Oct-19,19-Sep,2.26,1.99,-0.27,-11.9
+EXPE,Expedia Group,6-Nov-19,19-Sep,3.82,3.38,-0.44,-11.5
+LYV,Live Nation Entertainment,31-Oct-19,19-Sep,0.79,0.71,-0.08,-10.1
+NEM,Newmont Corporation,5-Nov-19,19-Sep,0.4,0.36,-0.04,-10
+MET,MetLife Inc.,30-Oct-19,19-Sep,1.41,1.27,-0.14,-9.9
+IPGP,IPG Photonics Corp.,29-Oct-19,19-Sep,1.19,1.08,-0.11,-9.2
+PNW,Pinnacle West Capital,7-Nov-19,19-Sep,3.03,2.77,-0.26,-8.5
+CHRW,C. H. Robinson Worldwide,29-Oct-19,19-Sep,1.16,1.07,-0.09,-7.7
+CXO,Concho Resources,29-Oct-19,19-Sep,0.66,0.61,-0.05,-7.5
+LNC,Lincoln National,30-Oct-19,19-Sep,2.4,2.22,-0.18,-7.5
+APA,Apache Corporation,30-Oct-19,19-Sep,-0.27,-0.29,-0.02,-7.4
+CPRI,Capri Holdings,6-Nov-19,19-Sep,1.25,1.16,-0.09,-7.2
+BEN,Franklin Resources,25-Oct-19,19-Sep,0.65,0.61,-0.04,-6.1
+CAT,Caterpillar Inc.,23-Oct-19,19-Sep,2.82,2.66,-0.16,-5.6
+BR,Broadridge Financial Solutions,6-Nov-19,19-Sep,0.72,0.68,-0.04,-5.5
+MO,Altria Group Inc,31-Oct-19,19-Sep,1.14,1.08,-0.06,-5.2
+AMZN,Amazon.com Inc.,24-Oct-19,19-Sep,4.46,4.23,-0.23,-5.1
+GS,Goldman Sachs Group,15-Oct-19,19-Sep,5.03,4.79,-0.24,-4.7
+DTE,DTE Energy Co.,28-Oct-19,19-Sep,2,1.91,-0.09,-4.5
+BLL,Ball Corp,31-Oct-19,19-Sep,0.73,0.7,-0.03,-4.1
+DXC,DXC Technology,11-Nov-19,19-Sep,1.44,1.38,-0.06,-4.1
+GWW,Grainger (W.W.) Inc.,23-Oct-19,19-Sep,4.44,4.26,-0.18,-4
+MCD,McDonald's Corp.,22-Oct-19,19-Sep,2.2,2.11,-0.09,-4
+MTB,M&T Bank Corp.,17-Oct-19,19-Sep,3.61,3.47,-0.14,-3.8
+XEL,Xcel Energy Inc,24-Oct-19,19-Sep,1.05,1.01,-0.04,-3.8
+FDX,FedEx Corporation,17-Sep-19,19-Aug,3.17,3.05,-0.12,-3.7
+ADS,Alliance Data Systems,24-Oct-19,19-Sep,5.24,5.05,-0.19,-3.6
+DLTR,Dollar Tree,26-Nov-19,19-Oct,1.12,1.08,-0.04,-3.5
+CTL,CenturyLink Inc,6-Nov-19,19-Sep,0.32,0.31,-0.01,-3.1
+ED,Consolidated Edison,4-Nov-19,19-Sep,1.59,1.54,-0.05,-3.1
+UNP,Union Pacific Corp,17-Oct-19,19-Sep,2.29,2.22,-0.07,-3
+VFC,V.F. Corp.,25-Oct-19,19-Sep,1.3,1.26,-0.04,-3
+LYB,LyondellBasell,1-Nov-19,19-Sep,2.78,2.7,-0.08,-2.8
+MAS,Masco Corp.,30-Oct-19,19-Sep,0.7,0.68,-0.02,-2.8
+ODFL,Old Dominion Freight Line,24-Oct-19,19-Sep,1.41,1.37,-0.04,-2.8
+JBHT,J. B. Hunt Transport Services,15-Oct-19,19-Sep,1.44,1.4,-0.04,-2.7
+EIX,Edison Int'l,29-Oct-19,19-Sep,1.53,1.49,-0.04,-2.6
+EMN,Eastman Chemical,24-Oct-19,19-Sep,1.99,1.94,-0.05,-2.5
+XEC,Cimarex Energy,4-Nov-19,19-Sep,0.93,0.91,-0.02,-2.1
+KR,Kroger Co.,5-Dec-19,19-Oct,0.48,0.47,-0.01,-2
+FBHS,Fortune Brands Home & Security,23-Oct-19,19-Sep,0.97,0.95,-0.02,-2
+AOS,A.O. Smith Corp,29-Oct-19,19-Sep,0.54,0.53,-0.01,-1.8
+ADI,Analog Devices Inc.,26-Nov-19,19-Oct,1.21,1.19,-0.02,-1.6
+TSN,Tyson Foods,12-Nov-19,19-Sep,1.23,1.21,-0.02,-1.6
+PXD,Pioneer Natural Resources,4-Nov-19,19-Sep,2.02,1.99,-0.03,-1.4
+LVS,Las Vegas Sands,23-Oct-19,19-Sep,0.76,0.75,-0.01,-1.3
+L,Loews Corp.,28-Oct-19,19-Sep,0.75,0.74,-0.01,-1.3
+MAR,Marriott Int'l.,4-Nov-19,19-Sep,1.49,1.47,-0.02,-1.3
+EVRG,Evergy,6-Nov-19,19-Sep,1.59,1.57,-0.02,-1.2
+LW,Lamb Weston Holdings Inc,2-Oct-19,19-Aug,0.8,0.79,-0.01,-1.2
+VMC,Vulcan Materials,6-Nov-19,19-Sep,1.7,1.68,-0.02,-1.1
+FISV,Fiserv Inc,6-Nov-19,19-Sep,1.03,1.02,-0.01,-0.9
+RCL,Royal Caribbean Cruises Ltd,30-Oct-19,19-Sep,4.31,4.27,-0.04,-0.9
+APD,Air Products & Chemicals Inc,7-Nov-19,19-Sep,2.29,2.27,-0.02,-0.8
+EOG,EOG Resources,6-Nov-19,19-Sep,1.14,1.13,-0.01,-0.8
+VRSK,Verisk Analytics,29-Oct-19,19-Sep,1.13,1.12,-0.01,-0.8
+UNM,Unum Group,29-Oct-19,19-Sep,1.37,1.36,-0.01,-0.7
+IFF,Intl Flavors & Fragrances,4-Nov-19,19-Sep,1.54,1.53,-0.01,-0.6
+ECL,Ecolab Inc.,29-Oct-19,19-Sep,1.72,1.71,-0.01,-0.5
+GILD,Gilead Sciences,24-Oct-19,19-Sep,1.76,1.75,-0.01,-0.5
+CMI,Cummins Inc.,29-Oct-19,19-Sep,3.84,3.83,-0.01,-0.2
+ARE,Alexandria Real Estate Equities,28-Oct-19,19-Sep,1.75,1.75,0,0
+HD,Home Depot,19-Nov-19,19-Oct,2.53,2.53,0,0
+HRL,Hormel Foods Corp.,26-Nov-19,19-Oct,0.47,0.47,0,0
+LB,L Brands Inc.,20-Nov-19,19-Oct,0.02,0.02,0,0
+ABT,Abbott Laboratories,16-Oct-19,19-Sep,0.84,0.84,0,0
+AMD,Advanced Micro Devices Inc,29-Oct-19,19-Sep,0.18,0.18,0,0
+AGN,Allergan plc,5-Nov-19,19-Sep,4.25,4.25,0,0
+APTV,Aptiv PLC,30-Oct-19,19-Sep,1.27,1.27,0,0
+AIZ,Assurant,5-Nov-19,19-Sep,1.69,1.69,0,0
+KO,Coca-Cola Company,18-Oct-19,19-Sep,0.56,0.56,0,0
+EMR,Emerson Electric Company,5-Nov-19,19-Sep,1.07,1.07,0,0
+FTV,Fortive Corp,24-Oct-19,19-Sep,0.87,0.87,0,0
+FCX,Freeport-McMoRan Inc.,23-Oct-19,19-Sep,-0.01,-0.01,0,0
+HAL,Halliburton Co.,21-Oct-19,19-Sep,0.34,0.34,0,0
+HBI,Hanesbrands Inc,31-Oct-19,19-Sep,0.54,0.54,0,0
+HSY,The Hershey Company,24-Oct-19,19-Sep,1.61,1.61,0,0
+HES,Hess Corporation,30-Oct-19,19-Sep,-0.32,-0.32,0,0
+HOLX,Hologic,6-Nov-19,19-Sep,0.65,0.65,0,0
+KMI,Kinder Morgan,16-Oct-19,19-Sep,0.22,0.22,0,0
+MCK,McKesson Corp.,30-Oct-19,19-Sep,3.6,3.6,0,0
+MCHP,Microchip Technology,5-Nov-19,19-Sep,1.43,1.43,0,0
+NWSA,News Corp. Class B,7-Nov-19,19-Sep,0.04,0.04,0,0
+OKE,ONEOK,29-Oct-19,19-Sep,0.74,0.74,0,0
+PPL,PPL Corp.,5-Nov-19,19-Sep,0.61,0.61,0,0
+RF,Regions Financial Corp.,22-Oct-19,19-Sep,0.39,0.39,0,0
+RHI,Robert Half International,23-Oct-19,19-Sep,1.01,1.01,0,0
+ROL,Rollins Inc.,23-Oct-19,19-Sep,0.22,0.22,0,0
+SBUX,Starbucks Corp.,30-Oct-19,19-Sep,0.7,0.7,0,0
+SYK,Stryker Corp.,29-Oct-19,19-Sep,1.91,1.91,0,0
+TSCO,Tractor Supply Company,24-Oct-19,19-Sep,1.04,1.04,0,0
+VAR,Varian Medical Systems,23-Oct-19,19-Sep,1.21,1.21,0,0
+WAT,Waters Corporation,29-Oct-19,19-Sep,2.13,2.13,0,0
+XYL,Xylem Inc.,31-Oct-19,19-Sep,0.82,0.82,0,0
+ORCL,Oracle Corp.,11-Sep-19,19-Aug,0.81,0.81,0,0
+WHR,Whirlpool Corp.,22-Oct-19,19-Sep,3.96,3.97,0.01,0.2
+ALK,Alaska Air Group Inc,24-Oct-19,19-Sep,2.62,2.63,0.01,0.3
+BDX,Becton Dickinson,5-Nov-19,19-Sep,3.3,3.31,0.01,0.3
+NSC,Norfolk Southern Corp.,23-Oct-19,19-Sep,2.57,2.58,0.01,0.3
+DE,Deere & Co.,27-Nov-19,19-Oct,2.13,2.14,0.01,0.4
+AXP,American Express Co,18-Oct-19,19-Sep,2.07,2.08,0.01,0.4
+UPS,United Parcel Service,22-Oct-19,19-Sep,2.06,2.07,0.01,0.4
+AVGO,Broadcom Inc.,12-Dec-19,19-Oct,5.36,5.39,0.03,0.5
+RJF,Raymond James Financial Inc.,23-Oct-19,19-Sep,1.99,2,0.01,0.5
+ZBH,Zimmer Biomet Holdings,5-Nov-19,19-Sep,1.76,1.77,0.01,0.5
+AEE,Ameren Corp,8-Nov-19,19-Sep,1.46,1.47,0.01,0.6
+ANTM,Anthem,23-Oct-19,19-Sep,4.84,4.87,0.03,0.6
+ETN,Eaton Corporation,29-Oct-19,19-Sep,1.51,1.52,0.01,0.6
+SRE,Sempra Energy,1-Nov-19,19-Sep,1.49,1.5,0.01,0.6
+SNA,Snap-on,17-Oct-19,19-Sep,2.94,2.96,0.02,0.6
+ADP,Automatic Data Processing,30-Oct-19,19-Sep,1.33,1.34,0.01,0.7
+WLTW,Willis Towers Watson,31-Oct-19,19-Sep,1.3,1.31,0.01,0.7
+DHR,Danaher Corp.,24-Oct-19,19-Sep,1.15,1.16,0.01,0.8
+VZ,Verizon Communications,25-Oct-19,19-Sep,1.24,1.25,0.01,0.8
+WELL,Welltower Inc.,28-Oct-19,19-Sep,1.04,1.05,0.01,0.9
+COO,The Cooper Companies,5-Dec-19,19-Oct,3.27,3.3,0.03,0.9
+T,AT&T Inc.,28-Oct-19,19-Sep,0.93,0.94,0.01,1
+BKNG,Booking Holdings Inc,7-Nov-19,19-Sep,44.87,45.36,0.49,1
+CNC,Centene Corporation,22-Oct-19,19-Sep,0.95,0.96,0.01,1
+C,Citigroup Inc.,15-Oct-19,19-Sep,1.96,1.98,0.02,1
+CMA,Comerica Inc.,16-Oct-19,19-Sep,1.91,1.93,0.02,1
+DD,DuPont de Nemours Inc,31-Oct-19,19-Sep,0.95,0.96,0.01,1
+MTD,Mettler Toledo,7-Nov-19,19-Sep,5.71,5.77,0.06,1
+PKG,Packaging Corporation of America,23-Oct-19,19-Sep,1.9,1.92,0.02,1
+SYY,Sysco Corp.,4-Nov-19,19-Sep,0.97,0.98,0.01,1
+SLG,SL Green Realty,16-Oct-19,19-Sep,1.73,1.75,0.02,1.1
+BXP,Boston Properties,29-Oct-19,19-Sep,1.62,1.64,0.02,1.2
+AJG,Arthur J. Gallagher & Co.,24-Oct-19,19-Sep,0.79,0.8,0.01,1.2
+CBRE,CBRE Group,6-Nov-19,19-Sep,0.78,0.79,0.01,1.2
+CE,Celanese,21-Oct-19,19-Sep,2.5,2.53,0.03,1.2
+TAP,Molson Coors Brewing Company,30-Oct-19,19-Sep,1.46,1.48,0.02,1.3
+SWKS,Skyworks Solutions,12-Nov-19,19-Sep,1.5,1.52,0.02,1.3
+WEC,Wec Energy Group Inc,6-Nov-19,19-Sep,0.73,0.74,0.01,1.3
+AAP,Advance Auto Parts,12-Nov-19,19-Sep,2.07,2.1,0.03,1.4
+AON,Aon plc,25-Oct-19,19-Sep,1.43,1.45,0.02,1.4
+CL,Colgate-Palmolive,1-Nov-19,19-Sep,0.7,0.71,0.01,1.4
+MKTX,MarketAxess,23-Oct-19,19-Sep,1.4,1.42,0.02,1.4
+PAYC,Paycom,29-Oct-19,19-Sep,0.69,0.7,0.01,1.4
+DRI,Darden Restaurants,19-Sep-19,19-Aug,1.36,1.38,0.02,1.4
+WBA,Walgreens Boots Alliance,28-Oct-19,19-Aug,1.41,1.43,0.02,1.4
+CERN,Cerner,24-Oct-19,19-Sep,0.65,0.66,0.01,1.5
+FFIV,F5 Networks,23-Oct-19,19-Sep,2.55,2.59,0.04,1.5
+IBM,International Business Machines,16-Oct-19,19-Sep,2.64,2.68,0.04,1.5
+OMC,Omnicom Group,15-Oct-19,19-Sep,1.3,1.32,0.02,1.5
+SEE,Sealed Air,6-Nov-19,19-Sep,0.63,0.64,0.01,1.5
+TEL,TE Connectivity Ltd.,30-Oct-19,19-Sep,1.31,1.33,0.02,1.5
+FLT,FleetCor Technologies Inc,6-Nov-19,19-Sep,3.05,3.1,0.05,1.6
+SNPS,Synopsys Inc.,4-Dec-19,19-Oct,1.13,1.15,0.02,1.7
+ABBV,AbbVie Inc.,1-Nov-19,19-Sep,2.29,2.33,0.04,1.7
+D,Dominion Energy,1-Nov-19,19-Sep,1.16,1.18,0.02,1.7
+FLIR,FLIR Systems,31-Oct-19,19-Sep,0.58,0.59,0.01,1.7
+GL,Globe Life Inc.,23-Oct-19,19-Sep,1.7,1.73,0.03,1.7
+ACN,Accenture plc,26-Sep-19,19-Aug,1.71,1.74,0.03,1.7
+MNST,Monster Beverage,7-Nov-19,19-Sep,0.54,0.55,0.01,1.8
+ABC,AmerisourceBergen Corp,7-Nov-19,19-Sep,1.58,1.61,0.03,1.9
+IQV,IQVIA Holdings Inc.,30-Oct-19,19-Sep,1.57,1.6,0.03,1.9
+AMT,American Tower Corp.,31-Oct-19,19-Sep,1.96,2,0.04,2
+ATO,Atmos Energy Corp,6-Nov-19,19-Sep,0.48,0.49,0.01,2
+CFG,Citizens Financial Group,18-Oct-19,19-Sep,0.96,0.98,0.02,2
+GPC,Genuine Parts,17-Oct-19,19-Sep,1.47,1.5,0.03,2
+IPG,Interpublic Group,22-Oct-19,19-Sep,0.48,0.49,0.01,2
+TMO,Thermo Fisher Scientific,23-Oct-19,19-Sep,2.88,2.94,0.06,2
+KEY,KeyCorp,17-Oct-19,19-Sep,0.47,0.48,0.01,2.1
+LH,Laboratory Corp. of America Holding,24-Oct-19,19-Sep,2.84,2.9,0.06,2.1
+XLNX,Xilinx,23-Oct-19,19-Sep,0.92,0.94,0.02,2.1
+CB,Chubb Limited,29-Oct-19,19-Sep,2.64,2.7,0.06,2.2
+DAL,Delta Air Lines Inc.,10-Oct-19,19-Sep,2.27,2.32,0.05,2.2
+EXPD,Expeditors,5-Nov-19,19-Sep,0.9,0.92,0.02,2.2
+KMB,Kimberly-Clark,22-Oct-19,19-Sep,1.8,1.84,0.04,2.2
+MDT,Medtronic plc,19-Nov-19,19-Oct,1.28,1.31,0.03,2.3
+DGX,Quest Diagnostics,22-Oct-19,19-Sep,1.72,1.76,0.04,2.3
+GPN,Global Payments Inc.,31-Oct-19,19-Sep,1.66,1.7,0.04,2.4
+WRK,WestRock,7-Nov-19,19-Sep,1.21,1.24,0.03,2.4
+WM,Waste Management Inc.,23-Oct-19,19-Sep,1.16,1.19,0.03,2.5
+ALB,Albemarle Corp,6-Nov-19,19-Sep,1.49,1.53,0.04,2.6
+BSX,Boston Scientific,23-Oct-19,19-Sep,0.38,0.39,0.01,2.6
+GD,General Dynamics,23-Oct-19,19-Sep,3.06,3.14,0.08,2.6
+JCI,Johnson Controls International,7-Nov-19,19-Sep,0.76,0.78,0.02,2.6
+MYL,Mylan N.V.,5-Nov-19,19-Sep,1.14,1.17,0.03,2.6
+GIS,General Mills,18-Sep-19,19-Aug,0.77,0.79,0.02,2.6
+EFX,Equifax Inc.,23-Oct-19,19-Sep,1.44,1.48,0.04,2.7
+FITB,Fifth Third Bancorp,22-Oct-19,19-Sep,0.73,0.75,0.02,2.7
+BLK,BlackRock,15-Oct-19,19-Sep,6.95,7.15,0.2,2.8
+CTSH,Cognizant Technology Solutions,30-Oct-19,19-Sep,1.05,1.08,0.03,2.8
+V,Visa Inc.,24-Oct-19,19-Sep,1.43,1.47,0.04,2.8
+HST,Host Hotels & Resorts,5-Nov-19,19-Sep,0.34,0.35,0.01,2.9
+DG,Dollar General,5-Dec-19,19-Oct,1.38,1.42,0.04,2.9
+AAL,American Airlines Group,24-Oct-19,19-Sep,1.38,1.42,0.04,2.9
+HLT,Hilton Worldwide Holdings Inc,23-Oct-19,19-Sep,1.02,1.05,0.03,2.9
+SHW,Sherwin-Williams,22-Oct-19,19-Sep,6.46,6.65,0.19,2.9
+PAYX,Paychex Inc.,2-Oct-19,19-Aug,0.69,0.71,0.02,2.9
+TJX,TJX Companies Inc.,19-Nov-19,19-Oct,0.66,0.68,0.02,3
+DFS,Discover Financial Services,22-Oct-19,19-Sep,2.29,2.36,0.07,3
+EBAY,eBay Inc.,23-Oct-19,19-Sep,0.65,0.67,0.02,3
+HBAN,Huntington Bancshares,24-Oct-19,19-Sep,0.33,0.34,0.01,3
+HII,Huntington Ingalls Industries,7-Nov-19,19-Sep,3.63,3.74,0.11,3
+NTRS,Northern Trust Corp.,23-Oct-19,19-Sep,1.64,1.69,0.05,3
+PBCT,People's United Financial,17-Oct-19,19-Sep,0.33,0.34,0.01,3
+STX,Seagate Technology,1-Nov-19,19-Sep,1,1.03,0.03,3
+WAB,Wabtec Corporation,31-Oct-19,19-Sep,1,1.03,0.03,3
+AWK,American Water Works Company Inc,30-Oct-19,19-Sep,1.29,1.33,0.04,3.1
+PEG,Public Serv. Enterprise Inc.,31-Oct-19,19-Sep,0.95,0.98,0.03,3.1
+ROP,Roper Technologies,24-Oct-19,19-Sep,3.19,3.29,0.1,3.1
+CLX,The Clorox Company,31-Oct-19,19-Sep,1.54,1.59,0.05,3.2
+SIVB,SVB Financial,24-Oct-19,19-Sep,4.99,5.15,0.16,3.2
+PVH,PVH Corp.,25-Nov-19,19-Oct,3,3.1,0.1,3.3
+UAL,United Airlines Holdings,15-Oct-19,19-Sep,3.94,4.07,0.13,3.3
+A,Agilent Technologies Inc,25-Nov-19,19-Oct,0.86,0.89,0.03,3.4
+HPQ,HP Inc.,26-Nov-19,19-Oct,0.58,0.6,0.02,3.4
+HON,Honeywell Int'l Inc.,17-Oct-19,19-Sep,2.01,2.08,0.07,3.4
+UNH,United Health Group Inc.,15-Oct-19,19-Sep,3.75,3.88,0.13,3.4
+LLY,Lilly (Eli) & Co.,23-Oct-19,19-Sep,1.43,1.48,0.05,3.5
+USB,U.S. Bancorp,16-Oct-19,19-Sep,1.11,1.15,0.04,3.6
+CSCO,Cisco Systems,13-Nov-19,19-Oct,0.81,0.84,0.03,3.7
+AVY,Avery Dennison Corp,23-Oct-19,19-Sep,1.6,1.66,0.06,3.7
+NCLH,Norwegian Cruise Line Holdings,7-Nov-19,19-Sep,2.15,2.23,0.08,3.7
+PPG,PPG Industries,17-Oct-19,19-Sep,1.61,1.67,0.06,3.7
+CI,CIGNA Corp.,31-Oct-19,19-Sep,4.37,4.54,0.17,3.8
+VRSN,Verisign Inc.,24-Oct-19,19-Sep,1.31,1.36,0.05,3.8
+GPS,Gap Inc.,21-Nov-19,19-Oct,0.51,0.53,0.02,3.9
+CVS,CVS Health,6-Nov-19,19-Sep,1.77,1.84,0.07,3.9
+CCL,Carnival Corp.,26-Sep-19,19-Aug,2.53,2.63,0.1,3.9
+MSI,Motorola Solutions Inc.,30-Oct-19,19-Sep,1.96,2.04,0.08,4
+PEP,PepsiCo Inc.,3-Oct-19,19-Sep,1.5,1.56,0.06,4
+ADBE,Adobe Inc.,17-Sep-19,19-Aug,1.97,2.05,0.08,4
+FE,FirstEnergy Corp,4-Nov-19,19-Sep,0.73,0.76,0.03,4.1
+IEX,IDEX Corporation,29-Oct-19,19-Sep,1.46,1.52,0.06,4.1
+MHK,Mohawk Industries,24-Oct-19,19-Sep,2.64,2.75,0.11,4.1
+AMGN,Amgen Inc.,29-Oct-19,19-Sep,3.51,3.66,0.15,4.2
+ES,Eversource Energy,5-Nov-19,19-Sep,0.94,0.98,0.04,4.2
+HCA,HCA Healthcare,29-Oct-19,19-Sep,2.14,2.23,0.09,4.2
+WU,Western Union Co,31-Oct-19,19-Sep,0.47,0.49,0.02,4.2
+ZBRA,Zebra Technologies,29-Oct-19,19-Sep,3.29,3.43,0.14,4.2
+STZ,Constellation Brands,3-Oct-19,19-Aug,2.61,2.72,0.11,4.2
+EL,Estee Lauder Cos.,31-Oct-19,19-Sep,1.6,1.67,0.07,4.3
+JNPR,Juniper Networks,24-Oct-19,19-Sep,0.46,0.48,0.02,4.3
+AZO,AutoZone Inc,24-Sep-19,19-Aug,21.64,22.59,0.95,4.3
+PLD,Prologis,15-Oct-19,19-Sep,0.93,0.97,0.04,4.3
+LOW,Lowe's Cos.,20-Nov-19,19-Oct,1.35,1.41,0.06,4.4
+MMM,3M Company,24-Oct-19,19-Sep,2.47,2.58,0.11,4.4
+DOV,Dover Corp.,17-Oct-19,19-Sep,1.53,1.6,0.07,4.5
+EXC,Exelon Corp.,31-Oct-19,19-Sep,0.88,0.92,0.04,4.5
+PH,Parker-Hannifin,31-Oct-19,19-Sep,2.64,2.76,0.12,4.5
+PRU,Prudential Financial,4-Nov-19,19-Sep,3.08,3.22,0.14,4.5
+HSIC,Henry Schein,5-Nov-19,19-Sep,0.86,0.9,0.04,4.6
+ROK,Rockwell Automation Inc.,12-Nov-19,19-Sep,1.92,2.01,0.09,4.6
+CCI,Crown Castle International Corp.,16-Oct-19,19-Sep,1.48,1.55,0.07,4.7
+STE,STERIS plc,4-Nov-19,19-Sep,1.26,1.32,0.06,4.7
+CHTR,Charter Communications,25-Oct-19,19-Sep,1.66,1.74,0.08,4.8
+DISCA,Discovery Inc. Class A,7-Nov-19,19-Sep,0.83,0.87,0.04,4.8
+AME,AMETEK Inc.,31-Oct-19,19-Sep,1.01,1.06,0.05,4.9
+MDLZ,Mondelez International,29-Oct-19,19-Sep,0.61,0.64,0.03,4.9
+NDAQ,Nasdaq Inc.,23-Oct-19,19-Sep,1.21,1.27,0.06,4.9
+PKI,PerkinElmer,30-Oct-19,19-Sep,1.01,1.06,0.05,4.9
+PNC,PNC Financial Services,16-Oct-19,19-Sep,2.8,2.94,0.14,5
+COP,ConocoPhillips,29-Oct-19,19-Sep,0.78,0.82,0.04,5.1
+ITW,Illinois Tool Works,25-Oct-19,19-Sep,1.94,2.04,0.1,5.1
+AMAT,Applied Materials Inc.,14-Nov-19,19-Oct,0.76,0.8,0.04,5.2
+NEE,NextEra Energy,22-Oct-19,19-Sep,2.27,2.39,0.12,5.2
+KMX,Carmax Inc,24-Sep-19,19-Aug,1.33,1.4,0.07,5.2
+CMCSA,Comcast Corp.,24-Oct-19,19-Sep,0.75,0.79,0.04,5.3
+FLS,Flowserve Corporation,30-Oct-19,19-Sep,0.56,0.59,0.03,5.3
+REGN,Regeneron Pharmaceuticals,5-Nov-19,19-Sep,6.33,6.67,0.34,5.3
+PNR,Pentair plc,23-Oct-19,19-Sep,0.55,0.58,0.03,5.4
+SWK,Stanley Black & Decker,24-Oct-19,19-Sep,2.02,2.13,0.11,5.4
+SPGI,S&P Global Inc.,29-Oct-19,19-Sep,2.33,2.46,0.13,5.5
+ULTA,Ulta Beauty,5-Dec-19,19-Oct,2.13,2.25,0.12,5.6
+MSCI,MSCI Inc,31-Oct-19,19-Sep,1.59,1.68,0.09,5.6
+TXN,Texas Instruments,22-Oct-19,19-Sep,1.41,1.49,0.08,5.6
+ZTS,Zoetis,7-Nov-19,19-Sep,0.89,0.94,0.05,5.6
+FAST,Fastenal Co,11-Oct-19,19-Sep,0.35,0.37,0.02,5.7
+CDNS,Cadence Design Systems,21-Oct-19,19-Sep,0.51,0.54,0.03,5.8
+DUK,Duke Energy,8-Nov-19,19-Sep,1.69,1.79,0.1,5.9
+FIS,Fidelity National Information Services,5-Nov-19,19-Sep,1.35,1.43,0.08,5.9
+PM,Philip Morris International,17-Oct-19,19-Sep,1.35,1.43,0.08,5.9
+COST,Costco Wholesale Corp.,3-Oct-19,19-Aug,2.54,2.69,0.15,5.9
+JNJ,Johnson & Johnson,15-Oct-19,19-Sep,2,2.12,0.12,6
+LRCX,Lam Research,23-Oct-19,19-Sep,3,3.18,0.18,6
+SJM,JM Smucker,22-Nov-19,19-Oct,2.13,2.26,0.13,6.1
+ROST,Ross Stores,21-Nov-19,19-Oct,0.97,1.03,0.06,6.1
+MXIM,Maxim Integrated Products Inc,29-Oct-19,19-Sep,0.49,0.52,0.03,6.1
+XOM,Exxon Mobil Corp.,1-Nov-19,19-Sep,0.64,0.68,0.04,6.2
+ORLY,O'Reilly Automotive,23-Oct-19,19-Sep,4.78,5.08,0.3,6.2
+INFO,IHS Markit Ltd.,24-Sep-19,19-Aug,0.63,0.67,0.04,6.3
+WMT,Walmart,14-Nov-19,19-Oct,1.09,1.16,0.07,6.4
+HRB,H&R Block,4-Dec-19,19-Oct,-0.91,-0.85,0.06,6.5
+HPE,Hewlett Packard Enterprise,25-Nov-19,19-Oct,0.46,0.49,0.03,6.5
+AAPL,Apple Inc.,30-Oct-19,19-Sep,2.84,3.03,0.19,6.6
+RL,Ralph Lauren Corporation,7-Nov-19,19-Sep,2.39,2.55,0.16,6.6
+PGR,Progressive Corp.,16-Oct-19,19-Sep,1.33,1.42,0.09,6.7
+ADSK,Autodesk Inc.,26-Nov-19,19-Oct,0.73,0.78,0.05,6.8
+AMP,Ameriprise Financial,23-Oct-19,19-Sep,3.97,4.24,0.27,6.8
+CSX,CSX Corp.,16-Oct-19,19-Sep,1.01,1.08,0.07,6.9
+MA,Mastercard Inc.,29-Oct-19,19-Sep,2.01,2.15,0.14,6.9
+MGM,MGM Resorts International,30-Oct-19,19-Sep,0.29,0.31,0.02,6.9
+RMD,ResMed,24-Oct-19,19-Sep,0.87,0.93,0.06,6.9
+LKQ,LKQ Corporation,31-Oct-19,19-Sep,0.57,0.61,0.04,7
+RSG,Republic Services Inc,30-Oct-19,19-Sep,0.85,0.91,0.06,7
+COG,Cabot Oil & Gas,24-Oct-19,19-Sep,0.27,0.29,0.02,7.4
+CDW,CDW,31-Oct-19,19-Sep,1.58,1.7,0.12,7.5
+SLB,Schlumberger Ltd.,18-Oct-19,19-Sep,0.4,0.43,0.03,7.5
+TROW,T. Rowe Price Group,24-Oct-19,19-Sep,1.98,2.13,0.15,7.5
+URI,United Rentals Inc.,16-Oct-19,19-Sep,5.53,5.96,0.43,7.7
+HOG,Harley-Davidson,22-Oct-19,19-Sep,0.51,0.55,0.04,7.8
+VRTX,Vertex Pharmaceuticals ,30-Oct-19,19-Sep,1.14,1.23,0.09,7.8
+LHX,L3Harris Technologies,30-Oct-19,19-Sep,2.39,2.58,0.19,7.9
+BK,The Bank of New York Mellon Corp.,16-Oct-19,19-Sep,0.99,1.07,0.08,8
+DHI,D. R. Horton,12-Nov-19,19-Sep,1.25,1.35,0.1,8
+ETFC,E*Trade,17-Oct-19,19-Sep,1,1.08,0.08,8
+MCO,Moody's Corp,30-Oct-19,19-Sep,1.99,2.15,0.16,8
+PCAR,PACCAR Inc.,22-Oct-19,19-Sep,1.62,1.75,0.13,8
+TFX,Teleflex,31-Oct-19,19-Sep,2.75,2.97,0.22,8
+CVX,Chevron Corp.,1-Nov-19,19-Sep,1.47,1.59,0.12,8.1
+TPR,Tapestry Inc.,5-Nov-19,19-Sep,0.37,0.4,0.03,8.1
+CHD,Church & Dwight,31-Oct-19,19-Sep,0.61,0.66,0.05,8.2
+FRC,First Republic Bank,15-Oct-19,19-Sep,1.21,1.31,0.1,8.2
+NVR,NVR Inc,18-Oct-19,19-Sep,51.78,56.11,4.33,8.3
+WMB,Williams Cos.,30-Oct-19,19-Sep,0.24,0.26,0.02,8.3
+ZION,Zions Bancorp,21-Oct-19,19-Sep,1.08,1.17,0.09,8.3
+AFL,AFLAC Inc,24-Oct-19,19-Sep,1.07,1.16,0.09,8.4
+CTAS,Cintas Corporation,24-Sep-19,19-Aug,2.14,2.32,0.18,8.4
+CME,CME Group Inc.,30-Oct-19,19-Sep,1.75,1.9,0.15,8.5
+BBY,Best Buy Co. Inc.,26-Nov-19,19-Oct,1.04,1.13,0.09,8.6
+STT,State Street Corp.,18-Oct-19,19-Sep,1.39,1.51,0.12,8.6
+AKAM,Akamai Technologies Inc,28-Oct-19,19-Sep,1.01,1.1,0.09,8.9
+LIN,Linde plc,12-Nov-19,19-Sep,1.78,1.94,0.16,8.9
+SYF,Synchrony Financial,18-Oct-19,19-Sep,1.12,1.22,0.1,8.9
+ETR,Entergy Corp.,30-Oct-19,19-Sep,2.31,2.52,0.21,9
+IP,International Paper,31-Oct-19,19-Sep,1,1.09,0.09,9
+NBL,Noble Energy Inc,7-Nov-19,19-Sep,-0.11,-0.1,0.01,9
+APH,Amphenol Corp,23-Oct-19,19-Sep,0.87,0.95,0.08,9.2
+KSU,Kansas City Southern,18-Oct-19,19-Sep,1.77,1.94,0.17,9.6
+PWR,Quanta Services Inc.,31-Oct-19,19-Sep,1.04,1.14,0.1,9.6
+VLO,Valero Energy,24-Oct-19,19-Sep,1.35,1.48,0.13,9.6
+AEP,American Electric Power,24-Oct-19,19-Sep,1.33,1.46,0.13,9.7
+IDXX,IDEXX Laboratories,31-Oct-19,19-Sep,1.13,1.24,0.11,9.7
+PHM,PulteGroup,22-Oct-19,19-Sep,0.92,1.01,0.09,9.7
+HUM,Humana Inc.,6-Nov-19,19-Sep,4.58,5.03,0.45,9.8
+JPM,JPMorgan Chase & Co.,15-Oct-19,19-Sep,2.44,2.68,0.24,9.8
+QCOM,QUALCOMM Inc.,6-Nov-19,19-Sep,0.71,0.78,0.07,9.8
+GLW,Corning Inc.,29-Oct-19,19-Sep,0.4,0.44,0.04,10
+MS,Morgan Stanley,17-Oct-19,19-Sep,1.1,1.21,0.11,10
+CPRT,Copart Inc,20-Nov-19,19-Oct,0.59,0.65,0.06,10.1
+ANET,Arista Networks,31-Oct-19,19-Sep,2.44,2.69,0.25,10.2
+CAG,Conagra Brands,26-Sep-19,19-Aug,0.39,0.43,0.04,10.2
+BMY,Bristol-Myers Squibb,31-Oct-19,19-Sep,1.06,1.17,0.11,10.3
+MSFT,Microsoft Corp.,23-Oct-19,19-Sep,1.25,1.38,0.13,10.4
+PG,Procter & Gamble,22-Oct-19,19-Sep,1.24,1.37,0.13,10.4
+ALLE,Allegion,24-Oct-19,19-Sep,1.33,1.47,0.14,10.5
+TDG,TransDigm Group,19-Nov-19,19-Sep,5.08,5.62,0.54,10.6
+ABMD,ABIOMED Inc,31-Oct-19,19-Sep,0.93,1.03,0.1,10.7
+BIIB,Biogen Inc.,22-Oct-19,19-Sep,8.27,9.17,0.9,10.8
+IR,Ingersoll-Rand PLC,28-Oct-19,19-Sep,0.37,0.41,0.04,10.8
+FB,Facebook Inc.,30-Oct-19,19-Sep,1.91,2.12,0.21,10.9
+CBOE,Cboe Global Markets,1-Nov-19,19-Sep,1.16,1.29,0.13,11.2
+NOW,ServiceNow,23-Oct-19,19-Sep,0.89,0.99,0.1,11.2
+ICE,Intercontinental Exchange,31-Oct-19,19-Sep,0.95,1.06,0.11,11.5
+JKHY,Jack Henry & Associates,4-Nov-19,19-Sep,1.04,1.16,0.12,11.5
+MMC,Marsh & McLennan,29-Oct-19,19-Sep,0.69,0.77,0.08,11.5
+TXT,Textron Inc.,17-Oct-19,19-Sep,0.85,0.95,0.1,11.7
+DISH,Dish Network,7-Nov-19,19-Sep,0.59,0.66,0.07,11.8
+PRGO,Perrigo,6-Nov-19,19-Sep,0.93,1.04,0.11,11.8
+ALXN,Alexion Pharmaceuticals,23-Oct-19,19-Sep,2.49,2.79,0.3,12
+BAC,Bank of America Corp,16-Oct-19,19-Sep,0.5,0.56,0.06,12
+ALGN,Align Technology,23-Oct-19,19-Sep,1.14,1.28,0.14,12.2
+LMT,Lockheed Martin Corp.,22-Oct-19,19-Sep,5.03,5.66,0.63,12.5
+NUE,Nucor Corp.,22-Oct-19,19-Sep,0.8,0.9,0.1,12.5
+DIS,The Walt Disney Company,7-Nov-19,19-Sep,0.95,1.07,0.12,12.6
+KEYS,Keysight Technologies,26-Nov-19,19-Oct,1.18,1.33,0.15,12.7
+ALL,Allstate Corp,29-Oct-19,19-Sep,2.52,2.84,0.32,12.7
+KLAC,KLA Corporation,30-Oct-19,19-Sep,2.2,2.48,0.28,12.7
+LUV,Southwest Airlines,24-Oct-19,19-Sep,1.09,1.23,0.14,12.8
+BWA,BorgWarner,31-Oct-19,19-Sep,0.85,0.96,0.11,12.9
+EA,Electronic Arts,29-Oct-19,19-Sep,0.85,0.96,0.11,12.9
+CPB,Campbell Soup,4-Dec-19,19-Oct,0.69,0.78,0.09,13
+K,Kellogg Co.,29-Oct-19,19-Sep,0.91,1.03,0.12,13.1
+MLM,Martin Marietta Materials,29-Oct-19,19-Sep,3.5,3.96,0.46,13.1
+TTWO,Take-Two Interactive,7-Nov-19,19-Sep,1.67,1.89,0.22,13.1
+MKC,McCormick & Co.,1-Oct-19,19-Aug,1.29,1.46,0.17,13.1
+NVDA,Nvidia Corporation,14-Nov-19,19-Oct,1.57,1.78,0.21,13.3
+LDOS,Leidos Holdings,29-Oct-19,19-Sep,1.2,1.36,0.16,13.3
+LEG,Leggett & Platt,28-Oct-19,19-Sep,0.67,0.76,0.09,13.4
+CRM,Salesforce.com,3-Dec-19,19-Oct,0.66,0.75,0.09,13.6
+ANSS,ANSYS,6-Nov-19,19-Sep,1.25,1.42,0.17,13.6
+SCHW,Charles Schwab Corporation,15-Oct-19,19-Sep,0.65,0.74,0.09,13.8
+XRAY,Dentsply Sirona,7-Nov-19,19-Sep,0.5,0.57,0.07,14
+TGT,Target Corp.,20-Nov-19,19-Oct,1.19,1.36,0.17,14.2
+INTC,Intel Corp.,24-Oct-19,19-Sep,1.24,1.42,0.18,14.5
+ADM,Archer-Daniels-Midland Co,31-Oct-19,19-Sep,0.67,0.77,0.1,14.9
+CTVA,Corteva,31-Oct-19,19-Sep,-0.46,-0.39,0.07,15.2
+EW,Edwards Lifesciences,23-Oct-19,19-Sep,1.22,1.41,0.19,15.5
+COF,Capital One Financial,24-Oct-19,19-Sep,2.87,3.32,0.45,15.6
+ISRG,Intuitive Surgical Inc.,17-Oct-19,19-Sep,2.96,3.43,0.47,15.8
+NOC,Northrop Grumman,24-Oct-19,19-Sep,4.74,5.49,0.75,15.8
+NTAP,NetApp,13-Nov-19,19-Oct,0.94,1.09,0.15,15.9
+CINF,Cincinnati Financial,24-Oct-19,19-Sep,0.93,1.08,0.15,16.1
+CAH,Cardinal Health Inc.,7-Nov-19,19-Sep,1.09,1.27,0.18,16.5
+COTY,Coty Inc,6-Nov-19,19-Sep,0.06,0.07,0.01,16.6
+MU,Micron Technology,26-Sep-19,19-Aug,0.48,0.56,0.08,16.6
+QRVO,Qorvo,31-Oct-19,19-Sep,1.3,1.52,0.22,16.9
+PYPL,PayPal,23-Oct-19,19-Sep,0.52,0.61,0.09,17.3
+HFC,HollyFrontier Corp,31-Oct-19,19-Sep,1.43,1.68,0.25,17.4
+FMC,FMC Corporation,29-Oct-19,19-Sep,0.8,0.94,0.14,17.5
+SO,Southern Co.,30-Oct-19,19-Sep,1.14,1.34,0.2,17.5
+CMS,CMS Energy,24-Oct-19,19-Sep,0.62,0.73,0.11,17.7
+FOXA,Fox Corporation Class A,6-Nov-19,19-Sep,0.7,0.83,0.13,18.5
+HIG,Hartford Financial Svc.Gp.,4-Nov-19,19-Sep,1.26,1.5,0.24,19
+PFE,Pfizer Inc.,29-Oct-19,19-Sep,0.63,0.75,0.12,19
+CMG,Chipotle Mexican Grill,22-Oct-19,19-Sep,3.2,3.82,0.62,19.3
+TMUS,T-Mobile US,28-Oct-19,19-Sep,0.97,1.16,0.19,19.5
+FTNT,Fortinet,31-Oct-19,19-Sep,0.56,0.67,0.11,19.6
+PSX,Phillips 66,25-Oct-19,19-Sep,2.6,3.11,0.51,19.6
+AES,AES Corp,6-Nov-19,19-Sep,0.4,0.48,0.08,20
+LEN,Lennar Corp.,2-Oct-19,19-Aug,1.32,1.59,0.27,20.4
+MRK,Merck & Co.,29-Oct-19,19-Sep,1.25,1.51,0.26,20.8
+NKE,Nike,24-Sep-19,19-Aug,0.71,0.86,0.15,21.1
+NLSN,Nielsen Holdings,7-Nov-19,19-Sep,0.42,0.51,0.09,21.4
+CTXS,Citrix Systems,24-Oct-19,19-Sep,1.24,1.52,0.28,22.5
+IVZ,Invesco Ltd.,23-Oct-19,19-Sep,0.57,0.7,0.13,22.8
+CNP,CenterPoint Energy,7-Nov-19,19-Sep,0.43,0.53,0.1,23.2
+DVA,DaVita Inc.,5-Nov-19,19-Sep,1.23,1.53,0.3,24.3
+JWN,Nordstrom,21-Nov-19,19-Oct,0.65,0.81,0.16,24.6
+GE,General Electric,30-Oct-19,19-Sep,0.12,0.15,0.03,25
+MPC,Marathon Petroleum,31-Oct-19,19-Sep,1.3,1.63,0.33,25.3
+WDC,Western Digital,30-Oct-19,19-Sep,0.27,0.34,0.07,25.9
+INCY,Incyte,29-Oct-19,19-Sep,0.65,0.82,0.17,26.1
+DOW,Dow Inc.,24-Oct-19,19-Sep,0.72,0.91,0.19,26.3
+XRX,Xerox,29-Oct-19,19-Sep,0.85,1.08,0.23,27
+WRB,W. R. Berkley Corporation,22-Oct-19,19-Sep,0.66,0.84,0.18,27.2
+UAA,Under Armour Class A,4-Nov-19,19-Sep,0.18,0.23,0.05,27.7
+ATVI,Activision Blizzard,7-Nov-19,19-Sep,0.25,0.32,0.07,28
+KHC,Kraft Heinz Co,31-Oct-19,19-Sep,0.53,0.69,0.16,30.1
+NWL,Newell Brands,1-Nov-19,19-Sep,0.56,0.73,0.17,30.3
+F,Ford Motor,23-Oct-19,19-Sep,0.26,0.34,0.08,30.7
+GRMN,Garmin Ltd.,30-Oct-19,19-Sep,0.94,1.27,0.33,35.1
+DVN,Devon Energy,5-Nov-19,19-Sep,0.19,0.26,0.07,36.8
+ILMN,Illumina Inc,24-Oct-19,19-Sep,1.4,1.93,0.53,37.8
+NFLX,Netflix Inc.,16-Oct-19,19-Sep,1.05,1.47,0.42,40
+GM,General Motors,29-Oct-19,19-Sep,1.18,1.72,0.54,45.7
+IT,Gartner Inc,31-Oct-19,19-Sep,0.45,0.7,0.25,55.5
+INTU,Intuit Inc.,21-Nov-19,19-Oct,0.26,0.41,0.15,57.6
+HP,Helmerich & Payne,14-Nov-19,19-Sep,0.24,0.39,0.15,62.5
+RE,Everest Re Group Ltd.,28-Oct-19,19-Sep,2.07,3.39,1.32,63.7
+DRE,Duke Realty Corp,30-Oct-19,19-Sep,0.37,0.62,0.25,67.5
+MRO,Marathon Oil Corp.,6-Nov-19,19-Sep,0.04,0.14,0.1,250
